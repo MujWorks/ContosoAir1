@@ -1,5 +1,8 @@
 [![Build Status](https://dev.azure.com/mujworks/contoso1/_apis/build/status/MujWorks.ContosoAir1?branchName=master)](https://dev.azure.com/mujworks/contoso1/_build/latest?definitionId=27&branchName=master)
+<<<<<<< HEAD
 
+=======
+>>>>>>> d018a586712a2ef5bd6d716694b6160ae189633e
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
